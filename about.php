@@ -363,18 +363,7 @@ footer {
 <br>
 
 <div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="images/mo.jpg" alt="Jane" style="width:100% ">
-      <div class="container">
-        <h2>Moayyad Alajlouni</h2>
-        <p >Web Develpoer</p>
-        <p style=font-weight:bold; >Al Balqa Applied University </p>
-        <p style=font-weight:bold; >moaead-alajlouni@hotmail.com</p>
-        <a href="https://web.facebook.com/moayyad.alajlouni" target=_blank ><button class="btn btn-info">Contact</button></a>
-      </div>
-    </div>
-  </div>
+ 
 
   <div class="column">
     <div class="card">
@@ -389,19 +378,7 @@ footer {
     </div>
   </div>
   
-  <div class="column">
-    <div class="card">
-      <img src="images/moa.jpg" alt="John" style="width:100%">
-      <div class="container">
-        <h2>Moamen Al-obidat</h2>
-        <p >Web Develpoer</p>
-        <p style=font-weight:bold; >Al Balqa Applied University </p>
-        <p style=font-weight:bold; >momenobei96@gmail.com</p>
-        <a href="https://web.facebook.com/profile.php?id=100005381539398" target=_blank ><button class="btn btn-info" >Contact</button></a>
-        
-      </div>
-    </div>
-  </div>
+ 
 </div>
 
 
